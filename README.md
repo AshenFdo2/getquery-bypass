@@ -5,8 +5,10 @@
 We’re excited to announce the release of **v2.2** for the Telegram Bypass Extension! 
 
 ### 🆘 Features:
-- **Bypass Update:** Supports *Moonbix* and *BybitCoinSweeper* games and more...
-- **Play Telegram Web games** directly without needing the mobile app.
+- ✅ Bypass Update:** Supports *Moonbix* and *BybitCoinSweeper* games and more...
+- ✅ Play Telegram Web games** directly without needing the mobile app.
+- ✅ Easily retrieve the `query_id` with a single click.
+- ✅ Easily retrieve the `token` with a single click.
 
 ### 🆘 How to Use:
 
